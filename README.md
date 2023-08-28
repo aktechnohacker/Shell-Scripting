@@ -22,7 +22,7 @@
 
 <h3 align="Left">     What is  #!/bin/bash?     </h3>
 
-#!/bin/bash is a **shebang line**. It tells the Linux OS which interpreter to use to parse the rest of the file.
+_#!/bin/bash_ is a **shebang line**. It tells the Linux OS which interpreter to use to parse the rest of the file.
 
 
 
