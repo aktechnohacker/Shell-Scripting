@@ -24,5 +24,11 @@
 
 _#!/bin/bash_ is a **shebang line**. It tells the Linux OS which interpreter to use to parse the rest of the file.
 
-
+<h3 align="Left">   Types of Shell ?     </h3>
+*Bash <br>
+*sh <br>
+*ksh <br>
+*tsh <br>
+*fish <br>
+*zsh <br>
 
