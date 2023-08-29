@@ -30,5 +30,13 @@ _#!/bin/bash_ is a **shebang line**. It tells the Linux OS which interpreter to 
 *ksh <br>
 *tsh <br>
 *fish <br>
-*zsh <br>
+*zsh <be>
+
+<h3 align="Left">   What is Variable ?     </h3>
+
+VAR_NAME=value  <br>
+
+VAR_NAME=$(hostname) <br>
+
+echo  $VAR_NAME <br>
 
